@@ -6,4 +6,4 @@ It's a CLI app , You Just Run The App & Get Very Strong & Secure Password eachti
 
 I Hope You Enjoy Of That !
 
-#Developer : Mohammad babaee
+# Developer : Mohammad babaee
